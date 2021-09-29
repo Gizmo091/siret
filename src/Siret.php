@@ -4,8 +4,8 @@ namespace Tyteck\Siret;
 
 class Siret
 {
-    public const SIRET_LENGTH = 14;
-    public const LAPOSTE_PREFIX = '356000000';
+    const SIRET_LENGTH = 14;
+    const LAPOSTE_PREFIX = '356000000';
 
     /**
      * removing spaces from string.

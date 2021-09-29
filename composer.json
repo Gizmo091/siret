@@ -1,5 +1,5 @@
 {
-    "name": "tyteck/siret",
+    "name": "zmog/siret",
     "description": "This package is technically validating siret number.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "frederick tyteca",
             "email": "frederick@tyteca.net"
+        },
+        {
+            "name": "Mathieu Vedie",
+            "email": "mathieu.vedie@gmail.com"
         }
     ],
     "require": {},
